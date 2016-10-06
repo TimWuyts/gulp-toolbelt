@@ -1,0 +1,16 @@
+/* UTILS */
+@import url("utils/variables.css");
+@import url("utils/animations.css");
+
+/* BASE */
+@import url("base/fonts.css");
+@import url("base/common.css");
+
+/* COMPONENTS */
+@import url("components/buttons.css");
+@import url("components/header.css");
+@import url("components/nav.css");
+@import url("components/footer.css");
+
+/* LAYOUT */
+@import url("layout/page.css");
